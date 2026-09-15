@@ -28,7 +28,6 @@ Neste repositório, estão reunidos desde códigos de lógica fundamental até a
 
 ## Estrutura de Projetos
 
-* `aula/` - Exercícios iniciais de sintaxe e lógica.
 * `ExemplosArray/` - Manipulação de arrays e coleções em Java.
 * `BancoDeDados/` - Scripts e conexões fundamentais com banco de dados.
 * `crud/` - Aplicação completa de gerenciamento (CRUD) criada com Spring Boot, JPA/Hibernate e MySQL.
